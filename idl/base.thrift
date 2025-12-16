@@ -1,4 +1,4 @@
-namespace go fishystore.base
+namespace go base
 
 struct BaseResp {
   1: string code
